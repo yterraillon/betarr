@@ -1,0 +1,6 @@
+@betarr_HostAddress = http://localhost:5069
+
+GET {{betarr_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
